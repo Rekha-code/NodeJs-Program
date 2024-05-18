@@ -1,0 +1,7 @@
+API:
+API stands for the applicat
+
+syntax:app.METHOD(PATH,HANDLER)
+
+app=is an instance of the express application
+METHOD=is the 

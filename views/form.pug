@@ -1,0 +1,15 @@
+html 
+ head 
+    title Form Tester 
+ body 
+    form(action="/",method="POST")
+        div  
+          label(for="say") Say:
+          input(name="say" value="h1") 
+        br
+        div 
+          label(for="to") To:
+          input(name="to" value="Express pug form")    
+        br
+        button(type="submit") Send my message  
+

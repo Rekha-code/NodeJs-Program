@@ -1,0 +1,10 @@
+h1 {
+  color: aqua;
+  text-align: center;
+}
+
+.btn {
+  width: 100px;
+  background-color: teal;
+  color: white;
+}
